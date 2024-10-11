@@ -206,4 +206,4 @@ Okay, we covered quite a bit so far. Namely, what are sockets, how we use them a
 
 You can of course take what read in this article so far, and apply it to more complex problems like streaming images from a camera to your computer. 
 
-*If you want to follow me on Twitter or GitHub, you can do so (here)[https://twitter.com/zz_humayun] and (here)[https://github.com/redixhumayun]. I'm always available if you want to reach out to me!*
+*If you want to follow me on Twitter or GitHub, you can do so (here)[https://twitter.com/Yarlagaddarohi] and (here)[https://github.com/yrohitha]. I'm always available if you want to reach out to me!*

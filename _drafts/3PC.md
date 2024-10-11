@@ -6,7 +6,7 @@ category: databases
 
 # Introduction
 
-Last time I [discussed the 2PC protocol](https://redixhumayun.github.io/databases/2023/09/16/2PC.html) and I want to discuss it's lesser known cousin, the 3PC protocol.
+Last time I [discussed the 2PC protocol](https://yrohitha.github.io/databases/2023/09/16/2PC.html) and I want to discuss it's lesser known cousin, the 3PC protocol.
 
 The 3PC protocol seems to be more of an intellectual curiosity than anything else because it hasn't seen very widespread adoption in real world systems. This is due to a variety of reasons including the complexity of the algorithm.
 
